@@ -1,2 +1,3 @@
 # typescript
-simran suneja :-
+
+by simran suneja :-
